@@ -1,4 +1,3 @@
-### Overview of the Codelab
+### Work In Progress
 
-### Step 1: Download and Install Kafka
 
